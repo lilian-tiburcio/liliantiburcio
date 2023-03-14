@@ -1,0 +1,60 @@
+.apresentacao{
+    font-family: 'Miriam Libre', sans-serif;
+    color: aliceblue;
+}
+.titulo{
+    font-size: 70px;
+    padding-top: 2em;
+    padding-left: 2em;
+}
+
+.introducao{
+font-size: 25px;
+padding-left: 10em;
+margin-top: 1em;
+}
+
+.container__conteudo{
+    display: inline-block;
+    width: 48.5%;
+    vertical-align: middle;
+    
+}
+
+.container{
+    height: 400px;
+    display: inline-block;
+    padding: 3em;
+    width: 48.5%;
+    vertical-align: middle;
+    box-sizing: border-box;
+}
+
+.menu{
+    font-family: 'Nosifer', cursive;
+    font-size: 2rem;
+    display: inline-block;
+    justify-content: space-between;
+    padding-top: 3em;
+    text-align: center;
+    }
+
+    .cabecalho__menu{
+        text-align: center;
+    }
+.menu-botao{
+    padding: 0 1em;
+    display: inline-block;
+}
+
+.menu-botao__link{
+    list-style: none;
+    text-decoration: none;
+    color: aliceblue;
+    transition: all 0.5s ease;
+}
+
+.menu-botao__link:hover{
+    color: #5f29f1;
+}
+
