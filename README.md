@@ -1,4 +1,4 @@
-<h1 align="center">Portfólio Lilian Tiburcio</h1>
+<h1 align="center">Portfólio - Lilian Tiburcio</h1>
 
 ![typingroxo](https://user-images.githubusercontent.com/112278577/225162215-0bb85004-faf7-4f07-8dde-5d14c7536893.png)
 
@@ -26,3 +26,4 @@ Para acessar os projetos aprensetados, siga desta forma:
 <h2>Onde acessar?</h2>
 
 Link do projeto: https://lilian-tiburcio.github.io/liliantiburcio/
+Linkedin: https://www.linkedin.com/in/liliantiburcio/
